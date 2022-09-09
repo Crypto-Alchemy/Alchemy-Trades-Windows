@@ -1,0 +1,24 @@
+
+{
+    "WALLET_ADDRESS": "",
+    "PRIVATE_KEY": "",
+
+
+    "USE_CUSTOM_RPC": "false",
+    "CUSTOM_RPC_ADDRESS": "",
+
+
+    "GRID_REMINDERS": "True",
+    "EXTRA_INFO": "True",
+
+
+    "SIMULATION": "True",
+    "SIMULATION_USD": "10000",
+
+
+    "USE_TELEGRAM": "false",
+    "TELEGRAM_USER_ID": "",
+
+    "EXIT_KEY": "T"
+
+}
