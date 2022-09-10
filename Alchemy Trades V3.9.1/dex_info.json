@@ -8,7 +8,7 @@
         "factoryAddress": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
         "nativeToken": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
         "base_symbol": "WAVAX",
-        "rpc": "https://api.avax.network/ext/bc/C/rpc",
+        "rpc": ["https://api.avax.network/ext/bc/C/rpc"],
         "stables": ["0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E","0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664","0x130966628846BFd36ff31a822705796e8cb8C18D","0xc7198437980c041c805A1EDcbA50c1Ce5db95118","0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98","0xd586e7f844cea2f87f50152665bcbc2c279d8d70","0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64","0x1c20e891bab6b1727d14da358fae2984ed9b59eb"]
     }
 ,
@@ -21,7 +21,7 @@
         "factoryAddress": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
         "nativeToken": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
         "base_symbol": "WAVAX",
-        "rpc": "https://api.avax.network/ext/bc/C/rpc",
+        "rpc": ["https://api.avax.network/ext/bc/C/rpc"],
         "stables": ["0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E","0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664","0x130966628846BFd36ff31a822705796e8cb8C18D","0xc7198437980c041c805A1EDcbA50c1Ce5db95118","0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98","0xd586e7f844cea2f87f50152665bcbc2c279d8d70","0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64","0x1c20e891bab6b1727d14da358fae2984ed9b59eb"]
     }
 ,
@@ -34,7 +34,7 @@
         "factoryAddress": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
         "nativeToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "base_symbol": "WBNB",
-        "rpc": "https://bsc-dataseed.binance.org/",
+        "rpc": ["https://bsc-dataseed.binance.org/"],
         "stables": ["0x55d398326f99059fF775485246999027B3197955","0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56","0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d","0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3","0x90c97f71e18723b0cf0dfa30ee176ab653e89f40","0x14016e85a25aeb13065688cafb43044c2ef86784","0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba"]
     }
 ,
@@ -47,7 +47,7 @@
         "factoryAddress": "0x858E3312ed3A876947EA49d572A7C42DE08af7EE",
         "nativeToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "base_symbol": "WBNB",
-        "rpc": "https://bsc-dataseed.binance.org/",
+        "rpc": ["https://bsc-dataseed.binance.org/"],
         "stables": ["0x55d398326f99059fF775485246999027B3197955","0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56","0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d","0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3","0x90c97f71e18723b0cf0dfa30ee176ab653e89f40","0x14016e85a25aeb13065688cafb43044c2ef86784","0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba"]
     }
 ,
@@ -60,7 +60,7 @@
         "factoryAddress": "0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6",
         "nativeToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "base_symbol": "WBNB",
-        "rpc": "https://bsc-dataseed.binance.org/",
+        "rpc": ["https://bsc-dataseed.binance.org/"],
         "stables": ["0x55d398326f99059fF775485246999027B3197955","0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56","0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d","0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3","0x90c97f71e18723b0cf0dfa30ee176ab653e89f40","0x14016e85a25aeb13065688cafb43044c2ef86784","0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba"]
     }
 ,
@@ -73,7 +73,7 @@
         "factoryAddress": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
         "nativeToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "base_symbol": "WETH",
-        "rpc": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "rpc": ["https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"],
         "stables": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","0xdAC17F958D2ee523a2206206994597C13D831ec7","0x6B175474E89094C44Da98b954EedeAC495271d0F","0x8e870d67f660d95d5be530380d0ec0bd388289e1","0x4fabb145d64652a948d72533023f6e7a623c7c53","0x853d955acef822db058eb8505911ed77f175b99e","0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3"]
     }
 ,
@@ -86,7 +86,7 @@
         "factoryAddress": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3",
         "nativeToken": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
         "base_symbol": "WFTM",
-        "rpc": "https://rpcapi.fantom.network",
+        "rpc": ["https://rpcapi.fantom.network"],
         "stables": ["0x04068DA6C83AFCFA0e13ba15A6696662335D5B75","0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E","0x049d68029688eabf473097a2fc38ef61633a3c7a","0xdc301622e621166bd8e82f2ca0a26c13ad0be355","0x9879abdea01a879644185341f7af7d8343556b7a","0x82f0b8b456c1a451378467398982d4834b6829c1"]
     }
 ,
@@ -99,7 +99,7 @@
         "factoryAddress": "0xEF45d134b73241eDa7703fa787148D9C9F4950b0",
         "nativeToken": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
         "base_symbol": "WFTM",
-        "rpc": "https://rpcapi.fantom.network",
+        "rpc": ["https://rpcapi.fantom.network"],
         "stables": ["0x04068DA6C83AFCFA0e13ba15A6696662335D5B75","0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E","0x049d68029688eabf473097a2fc38ef61633a3c7a","0xdc301622e621166bd8e82f2ca0a26c13ad0be355","0x9879abdea01a879644185341f7af7d8343556b7a","0x82f0b8b456c1a451378467398982d4834b6829c1"]
     }
 ,
@@ -112,7 +112,7 @@
         "factoryAddress": "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32",
         "nativeToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "base_symbol": "WMATIC",
-        "rpc": "https://polygon-rpc.com/",
+        "rpc": ["https://polygon-rpc.com/"],
          "stables": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","0xc2132D05D31c914a87C6611C10748AEb04B58e8F","0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063","0xa3Fa99A148fA48D14Ed51d610c367C61876997F1","0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756","0xbD1463F02f61676d53fd183C2B19282BFF93D099","0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89","0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72"]
     }
 ,
@@ -125,7 +125,7 @@
         "factoryAddress": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
         "nativeToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "base_symbol": "WMATIC",
-        "rpc": "https://polygon-rpc.com/",
+        "rpc": ["https://polygon-rpc.com/"],
         "stables": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","0xc2132D05D31c914a87C6611C10748AEb04B58e8F","0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063","0xa3Fa99A148fA48D14Ed51d610c367C61876997F1","0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756","0xbD1463F02f61676d53fd183C2B19282BFF93D099","0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89","0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72"]
     }
 ,
@@ -138,7 +138,7 @@
         "factoryAddress": "0xCf083Be4164828f00cAE704EC15a36D711491284",
         "nativeToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "base_symbol": "WMATIC",
-        "rpc": "https://polygon-rpc.com/",
+        "rpc": ["https://polygon-rpc.com/"],
         "stables": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","0xc2132D05D31c914a87C6611C10748AEb04B58e8F","0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063","0xa3Fa99A148fA48D14Ed51d610c367C61876997F1","0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756","0xbD1463F02f61676d53fd183C2B19282BFF93D099","0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89","0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72"]
     }
 ,
@@ -151,7 +151,7 @@
         "factoryAddress": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
         "nativeToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "base_symbol": "WMATIC",
-        "rpc": "https://polygon-rpc.com/",
+        "rpc": ["https://polygon-rpc.com/"],
         "stables": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","0xc2132D05D31c914a87C6611C10748AEb04B58e8F","0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063","0xa3Fa99A148fA48D14Ed51d610c367C61876997F1","0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756","0xbD1463F02f61676d53fd183C2B19282BFF93D099","0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89","0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72"]
     }
 ]
