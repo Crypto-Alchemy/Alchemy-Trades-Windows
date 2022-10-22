@@ -1,3 +1,7 @@
+-V4.FG.2
+	Tamed Matic
+	Fixed PCS error with inputs
+
 -V4.FG.1 - STILL, because Alch is on vacation and we didnt change the version
 	Added custom port options
 	Added new machine fingerprint to prevent unnecessary license locks
